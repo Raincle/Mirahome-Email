@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62ab2995-fe23-41f0-b82a-0353d3ef8327" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码/icon.png" afterPath="$PROJECT_DIR$/img/icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码/logo.png" afterPath="$PROJECT_DIR$/img/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/email-activation-pc.html" afterPath="$PROJECT_DIR$/email-activation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reset-password-success.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reset-password.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码/眼睛button.png" afterPath="$PROJECT_DIR$/img/eye-on.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码/眼睛button（未打开）.png" afterPath="$PROJECT_DIR$/img/eye-off.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/email-activation.html" afterPath="$PROJECT_DIR$/email-activation-success.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Mirahome-Email.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,22 +28,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="email-activation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/email-activation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.25">
-              <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="激活账号&amp;重置密码.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="激活账号&amp;重置密码.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码.png">
           <provider selected="true" editor-type-id="images">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset-password.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reset-password.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37319884">
+              <caret line="185" column="49" selection-start-line="185" selection-start-column="49" selection-end-line="185" selection-end-column="49" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -55,6 +55,10 @@
       <list>
         <option value="$PROJECT_DIR$/email-activation-pc.html" />
         <option value="$PROJECT_DIR$/email-activation.html" />
+        <option value="$PROJECT_DIR$/password-reset.html" />
+        <option value="$PROJECT_DIR$/reset-password-success.html" />
+        <option value="$PROJECT_DIR$/email-activation-success.html" />
+        <option value="$PROJECT_DIR$/reset-password.html" />
       </list>
     </option>
   </component>
@@ -64,10 +68,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="12" />
-    <option name="y" value="23" />
+    <option name="x" value="52" />
+    <option name="y" value="72" />
     <option name="width" value="1440" />
-    <option name="height" value="838" />
+    <option name="height" value="836" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -173,6 +177,9 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
@@ -238,10 +245,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="12" y="23" width="1440" height="838" extended-state="0" />
+    <frame x="52" y="72" width="1440" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15997182" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -267,7 +274,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/email-activation.html">
+    <entry file="file://$PROJECT_DIR$/email-activation-success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email-activation-success.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -292,10 +314,38 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/email-activation.html">
+    <entry file="file://$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码/确认按钮（可用）.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码/确认按钮（不可用）.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/eye-on.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/eye-off.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset-password-success.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.25">
-          <caret line="106" column="44" selection-start-line="106" selection-start-column="44" selection-end-line="106" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.5028818">
+          <caret line="97" column="4" selection-start-line="97" selection-start-column="4" selection-end-line="97" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email-activation-success.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84870315">
+          <caret line="100" column="31" selection-start-line="100" selection-start-column="31" selection-end-line="100" selection-end-column="31" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -305,6 +355,14 @@
     <entry file="file://$PROJECT_DIR$/APP相关网页/激活账号&amp;重置密码.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reset-password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37319884">
+          <caret line="185" column="49" selection-start-line="185" selection-start-column="49" selection-end-line="185" selection-end-column="49" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
